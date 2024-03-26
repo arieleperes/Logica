@@ -11,4 +11,4 @@ else:
 
     if  delta == 0:
         print('a equação possui apenas uma raiz',)
-        x= -b / 2 * a 
+        x= -b / 2 * a
