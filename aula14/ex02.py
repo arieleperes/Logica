@@ -10,4 +10,4 @@ def eprimo(n):
 
 def inteiro(n):
     if n > 0:
-        
+

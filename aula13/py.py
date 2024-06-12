@@ -14,8 +14,6 @@ while True:
         print('funcao exibir frase')
     elif opcao == '3':
         break
-    else:
-        exibir_menu()
 
 print("bye!")
 
